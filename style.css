@@ -1,0 +1,23 @@
+h1{
+    color: #850E35;
+}
+.container{
+    background-color: #FFF5E4;
+    border-radius: 5%;
+}
+
+label{
+    font-weight: bold;
+    color: #850E35;
+
+}
+
+.btn{
+    color: #850E35;
+    background-color: #FFC4C4;
+}
+
+.btn:hover{
+    color: #ffff;
+    background-color: #EE6983;
+}
